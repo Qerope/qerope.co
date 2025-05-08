@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Hamed Tavakoli Dastjerdi",
-    "label": "uOttawa CS Student, Hitachi Intern",
+    "name": "Nicholas Tavakoli",
+    "label": "uOttawa CS, Hitachi Rail",
     "email": "HamedTava@outlook.com",
     "phone": "(613) 294-6363",
     "url": "https://Qerope.co",
@@ -26,7 +26,7 @@
   "work": [
     {
       "name": "Hitachi",
-      "position": "Site Deployment Intern",
+      "position": "Site Deployment",
       "url": "https://www.hitachi.com",
       "startDate": "2024-05-01",
       "endDate": "Present",
@@ -68,7 +68,7 @@
       "area": "Computer Science, Minor in Physics",
       "studyType": "Bachelor of Science",
       "startDate": "2022-09-01",
-      "endDate": "2026-04-01",
+      "endDate": "2025-12-30",
       "score": "N/A",
       "courses": [
         "Data Structures & Algorithms",
@@ -209,7 +209,7 @@
   ],
   "awards": [
     {
-      "title": "Scholarshiof for Innovation in Student Publications",
+      "title": "Scholarship for Innovation in Student Publications",
       "date": "2024-02-01",
       "awarder": "UOSU"
     },
