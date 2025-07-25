@@ -1,24 +1,20 @@
 {
   "basics": {
-    "name": "Hamed Tavakoli Dastjerdi",
-    "label": "uOttawa Computer Science, Hitachi Software Engineer",
+    "name": "Hamed Tavakoli",
+    "label": "uOttawa CS, Hitachi Rail",
     "email": "HamedTava@outlook.com",
     "phone": "(613) 294-6363",
     "url": "https://Qerope.co",
-    "summary": "bb/Software Engineer with 5+ years’ experience/b deploying bb/large-scale, production systems/b in full-stack, DevOps, and embedded domains. bb/Led projects/b delivering solutions for bb/Hitachi, Microsoft, and EA/b.",
     "location": {
-      "address": "36 Robinson Ave",
-      "postalCode": "K1N 0G4",
       "city": "Ottawa",
       "region": "Ontario",
       "countryCode": "CA"
     },
-    "website": "https://Qerope.co",
     "profiles": [
       {
         "network": "GitHub",
         "username": "Qerope",
-        "url": "https://github.com/Qerope"
+        "url": "https://Github.com/Qerope"
       },
       {
         "network": "Linkedin",
@@ -29,38 +25,39 @@
   },
   "work": [
     {
-      "name": "Hitachi Rail GTS",
-      "position": "Site Deployment Intern",
+      "name": "Hitachi",
+      "position": "Site Deployment",
       "url": "https://www.hitachi.com",
       "startDate": "2024-05-01",
       "endDate": "Present",
       "highlights": [
-        "Designed bb/automated deployment pipeline/b, reducing time by 3x by analyzing sensor data streams and systems",
-        "Upgraded & bb/containerized the maintenance system/b for bb/CANBUS/ETH/b interfacing, decreasing downtime drastically",
-        "Commissioned 80+ railway subsystems and bb/produced detailed SOPs/b; Achieved 100% compliance with safety audits"
+        "Developed automated scripts to streamline site deployment, reducing time by 300%",
+        "Designed and implemented a predictive maintenance system, decreasing downtime by 20%",
+        "Produced detailed documentation and training materials to improve deployment efficiency"
       ]
     },
     {
       "name": "Broken Teapot Studios Inc.",
-      "position": "Software Developer Intern",
+      "position": "Game Developer Intern",
       "url": "https://www.brokenteapotstudios.com",
-      "startDate": "2024-01-02",
-      "endDate": "2024-04-30",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-31",
       "highlights": [
-        "Refined and optimized low-level game shader rendering based on bb/Vulkan/OpenGL/b, achieving a 115% performance gain",
-        "Designed in-game graphics and bb/real-time path/ray tracing/b and particle simulation for 5x resource efficiency"
+        "Developed dynamic AI systems that enhanced player interaction and gameplay immersion",
+        "Refined game shader code, improving performance by 115%",
+        "Contributed to the design of a puzzle-solving mechanic that boosted user retention by 25%"
       ]
     },
     {
-      "name": "PanQ solutions",
-      "position": "Software Engineer / Founder",
-      "url": "https://qerope.co",
-      "startDate": "2017-05-01",
-      "endDate": "2024-01-01",
+      "name": "RTXComputers Electronics Provider",
+      "position": "Full Stack Web Developer",
+      "url": "https://www.rtxcomputers.com",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-31",
       "highlights": [
-        "Developed 200+ projects ranging from healthcare to defense for notable clients such as bb/Unity/b, bb/Microsoft/b, bb/TCI/b, bb/EA/b",
-        "Led multiple extensive projects overseeing bb/teams of 10+ developers and designers/b creating $5M+ of revenue",
-        "Engineered and maintained bb/high-availability systems/b with 99% satisfaction for 50+ clients serving 5M+ users"
+        "Developed customer support chatbot and recommendation system that improved user experience",
+        "Collaborated with marketing team to optimize website and increase conversions",
+        "Worked with technologies such as React, Node.js, and MongoDB to enhance web functionality"
       ]
     }
   ],
@@ -81,7 +78,7 @@
         "Databases",
         "Networking"
       ],
-      "summary": "Involvement in competitions, conferences, and student initiatives; Merit scholarships over $200,000; Dean's honour list."
+      "summary": "Actively engaged in cutting-edge research across various fields, including physics, engineering, and health sciences. Multiple competitions and merit scholarships over $40,000/annum. Dean's honour list."
     }
   ],
   "skills": [
@@ -90,137 +87,111 @@
       "keywords": [
         "Python",
         "Java",
-        "C",
-        "C++",
+        "C/C++",
         "C#",
-        "JavaScript",
-        "TypeScript",
         "Swift",
         "PHP",
+        "Typescript",
+        "JavaScript",
+        "HTML/CSS",
+        "SQL",
         "R",
         "Ruby",
-        "Lua",
-        "SQL",
-        "HTML5",
-        "CSS3"
+        "Lua"
       ]
     },
     {
       "name": "Frameworks",
       "keywords": [
+        "React",
         "Node.js",
-        "Ruby on Rails",
-        "Flask",
-        "FastAPI",
+        "TensorFlow",
         "Pandas",
         "NumPy",
-        "TensorFlow",
         "SimPy",
-        "Express.js"
+        "Angular",
+        "Ruby on Rails",
+        "Next.js",
+        "Bootstrap",
+        "Apache Spark"
       ]
     },
     {
-      "name": "DevOps & Cloud",
+      "name": "Tools",
       "keywords": [
-        "AWS",
-        "Azure",
-        "GCP",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Jenkins",
-        "Vagrant",
         "Git",
-        "Terraform",
-        "Ansible",
-        "Shell"
-      ]
-    },
-    {
-      "name": "Data Analytics",
-      "keywords": [
-        "Predictive Modeling",
-        "Mathematical Modeling",
-        "ETL",
-        "Big Data",
-        "Machine Learning",
-        "Neural Networks"
-      ]
-    },
-    {
-      "name": "Tools & Platforms",
-      "keywords": [
+        "Docker",
+        "AWS",
+        "GCP",
+        "Azure",
         "MATLAB",
+        "Shell Scripting",
         "Postman",
+        "Jenkins",
+        "CI/CD",
         "JIRA",
-        "Bitbucket",
-        "Slack",
-        "Figma",
-        "Notion",
-        "Confluence",
-        "Trello"
+        "Vagrant"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Edge Computing",
+        "ML/DL/AI",
+        "Big Data",
+        "Modeling",
+        "Smart Contracts",
+        "DApps/DeFi",
+        "Web3/IPFS",
+        "Tokenomics"
       ]
     },
     {
       "name": "Cybersecurity",
       "keywords": [
-        "Pen Testing",
+        "Network Security",
         "Cryptography",
         "IDS/IPS",
+        "CEH 13",
         "SIEM",
-        "CEH",
+        "DDoS Protection",
+        "SOC",
         "SOC 2",
-        "ISO 27001",
-        "DDoS",
-        "Risk Assessment"
+        "ISO 27001"
       ]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["English", "French", "Persian"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "French"
+    },
+    {
+      "language": "Persian"
     }
   ],
   "certificates": [
     {
-      "name": "AWS Certified Developer – Associate",
-      "issuer": "Amazon AWS",
-      "date": "2024-10-01"
+      "name": "Introduction to Statistics",
+      "issuer": "Stanford University"
     },
     {
-      "name": "AWS Certified Solutions Architect – Associate",
-      "issuer": "Amazon AWS",
-      "date": "2025-01-01"
+      "name": "Network Security, Python Programming, 5G/3GPP",
+      "issuer": "Huawei Talent"
     },
     {
-      "name": "Certified Kubernetes Application Developer (CKAD)",
-      "issuer": "Cloud Native Computing Foundation (CNCF)",
-      "date": "2024-05-01"
+      "name": "Java Programming, Problem Solving",
+      "issuer": "HackerRank"
     },
     {
-      "name": "HashiCorp Certified: Terraform Associate",
-      "issuer": "HashiCorp",
-      "date": "2025-04-01"
-    },
-    {
-      "name": "GitLab Certified CI/CD Associate Exam",
-      "issuer": "GitLab",
-      "date": "2023-12-01"
-    },
-    {
-      "name": "Certified Ethical Hacker (CEH 13)",
-      "issuer": "EC-Council",
-      "date": "2025-02-01"
-    },
-    {
-      "name": "Cisco Certified Network Associate (CCNA)",
-      "issuer": "Cisco",
-      "date": "2022-09-01"
-    },
-    {
-      "name": "Linux Foundation Certified System Administrator (LFCS)",
-      "issuer": "Linux Foundation",
-      "date": "2023-12-01"
-    },
-    {
-      "name": "Huawei Certified 5G/3GPP Professional",
-      "issuer": "Huawei",
-      "date": "2022-03-01"
+      "name": "Art Directing Games with Vision and Purpose",
+      "issuer": "Iran Computer and Video Games Foundation"
     }
   ],
   "publications": [
@@ -228,106 +199,57 @@
       "name": "Impact Of Telemedicine Intervention On Patient Satisfaction For Hypertensive Patients",
       "publisher": "URNCST Journal",
       "releaseDate": "2023-02-01",
-      "url": "https://doi.org/10.26685/urncst.505",
-      "summary": "Conducted a peer-reviewed study (https://doi.org/10.26685/urncst.505) analyzing the effectiveness of remote healthcare with AI."
+      "url": "https://doi.org/10.26685/urncst.505"
     },
     {
       "name": "Investigating Human Cognitive Learning Process In An Artistic Context",
       "publisher": "PanQ Game Studios",
-      "releaseDate": "2017-05-01",
-      "summary": "Explored intersections between art and cognitive development, contributing to early research on gamified learning environments."
+      "releaseDate": "2017-05-01"
     }
   ],
   "awards": [
     {
       "title": "Scholarship for Innovation in Student Publications",
       "date": "2024-02-01",
-      "awarder": "UOSU",
-      "summary": "Recognized for outstanding contributions to research communication and innovation in student-led scientific publication."
+      "awarder": "UOSU"
     },
     {
       "title": "5G Connectivity for Cross Border Challenge",
       "date": "2023-07-01",
-      "awarder": "Telus",
-      "summary": "Awarded for developing an innovative solution utilizing 5G for seamless cross-border vehicular communication."
+      "awarder": "Telus"
     },
     {
-      "title": "Solutions Lab & Idea’s Lab Award",
+      "title": "Solutions Lab & Idea's Lab Award",
       "date": "2023-02-01",
-      "awarder": "University of Ottawa - eHub - MDA",
-      "summary": "Selected for leading a high-impact project to design and plan analysis of celestial objects using LiDAR technologis."
+      "awarder": "University of Ottawa - eHub - MDA"
+    },
+    {
+      "title": "Youngest Startup of Iran",
+      "date": "2017-06-01",
+      "awarder": "Tabnak"
     }
   ],
   "projects": [
     {
-      "name": "Finflow",
-      "description": "Open-source financial management app with real-time bank integration using Plaid.",
-      "url": "https://github.com/Qerope/financial-manager"
-    },
-    {
       "name": "ML Mystery Card Game Analyzer",
-      "description": "Card Game ML Data Engineering to find the rules of a card game.",
+      "description": "Card Game ML Data Engineering to find the rules of a mystery card game.",
       "url": "https://github.com/qerope/de-csgames"
     },
     {
-      "name": "Elysium RISC-V Operating System",
+      "name": "Elysium",
       "description": "Project Elysium main repo, an open-source operating system designed for RISC-V based devices.",
       "url": "https://github.com/qerope/Elysium"
     },
     {
-      "name": "uOttaHack 6 & 7 & 8",
-      "description": "Main website, live website, and organizer apps for 2024 and 2025 uOttaHack hackathon & sponsorship lead for 2026.",
+      "name": "uOttaHack 6 & 7",
+      "description": "Main website, live website, and organizer apps for 2024 and 2025 uOttaHack hackathon.",
       "url": "https://github.com/qerope/2025-uOttaHack-Home"
     },
     {
       "name": "Cloud Resource Allocation Simulator",
       "description": "A Python project related to the CSI4124 course to simulate SJF and FIFO for cloud server resource allocation.",
       "url": "https://github.com/qerope/CSI4124-Project"
-    },
-    {
-      "name": "Legacy Game & Utility Projects",
-      "description": "Built over 50 cross-platform open-source projects including desktop games, automation tools, and analytic systems.",
-      "url": "https://github.com/Qerope"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "uOttaHack",
-      "position": "Development Lead",
-      "url": "https://uottahack.ca/",
-      "startDate": "2023-03-01",
-      "endDate": "2026-03-01",
-      "summary": "Led technical team for Canada’s largest student-run international hackathon."
-    },
-    {
-      "organization": "Engineering Students' Society, University of Ottawa",
-      "position": "Board Member",
-      "url": "https://essaeg.ca/",
-      "startDate": "2023-09-01",
-      "endDate": "2024-04-30",
-      "summary": "Served on the Board of Directors to enhance the engineering student community."
-    },
-    {
-      "organization": "Engineering Student Societies' Council of Ontario (ESSCO)",
-      "position": "Conference Organizer – CALE",
-      "url": "https://essco.ca/",
-      "startDate": "2023-11-01",
-      "endDate": "2024-03-01",
-      "summary": "Organized the Conference on Advocacy and Leadership in Engineering (CALE) as part of the sponsorship team."
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "French",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Persian",
-      "fluency": "Fluent"
     }
   ]
 }
+
